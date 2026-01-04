@@ -13,7 +13,7 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutang-Bhatiya&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[`AAAA`](https://visitcount.itsvg.in/api?id=Rutang-Bhatiya&icon=0&color=0)](https://visitcount.itsvg.in)
+[`AAAA`]((https://visitcount.itsvg.in/api?id=Rutang-Bhatiya&icon=0&color=0), [`BB`](https://visitcount.itsvg.in)
 
 ---
 
