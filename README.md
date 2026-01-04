@@ -15,4 +15,15 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
 ---
 [![](https://visitcount.itsvg.in/api?id=Rutang-Bhatiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Navigation / Links (Placeholders)
+
+- **Overview:** [About Me / Journey Page](#)  
+  *It contain links to My portfolio and all major pages and projects*
+
+- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/)  
+  *Links to all Nielsen Repo*
+
+- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/)  
+  *Links to all ECO3 Repo*
