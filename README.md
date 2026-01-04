@@ -14,10 +14,6 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
 
 ## Navigation
 
-- **About Me** – [`Main Overview`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/)
-  *Central hub with links to my portfolio, projects, and career highlights.*
-
-
 - **NielsenIQ** [`Enterprise Analytics Journey – NielsenIQ`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/)
     *Master page linking all NielsenIQ repositories.*
   
@@ -29,8 +25,8 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
     
     - [`Database Architecture & Business Translation`](https://rutang-bhatiya.github.io/3.0-Database-Architecture-Customer-Enablement/)
       *Database modeling, hierarchy management, and business translation.*
-
       
+    
 - **ECO3** [`Enterprise Analytics Journey – ECO3`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/)
     *Master page linking all ECO3 repositories.*
    
