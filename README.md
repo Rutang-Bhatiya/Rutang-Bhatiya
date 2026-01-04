@@ -37,7 +37,7 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
     *Master page linking all ECO3 repositories.*
     - [`Legacy Discovery & Reporting Foundation`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
       *Mapping legacy environment & establishing report ownership.*
-    - [`Operational BI Ownership & Business Analytics]`(https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/)  
+    - [`Operational BI Ownership & Business Analytics`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/){:target="_blank"}
       *Power BI ownership, data trust restoration, stakeholder enablement.*
     - [`Pricing, Software & Service Analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
       *Unified Sales Analytics App – Pricing, Software Revenue, Service KPIs.*
