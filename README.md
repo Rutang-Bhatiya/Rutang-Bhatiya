@@ -17,13 +17,29 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
 
 ---
 
-## Navigation / Links (Placeholders)
+## Navigation
 
-- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/)
-  *It contain links to My portfolio and all major pages and projects*
+- **About Me** – [`Main Overview`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/)
+  *Central hub with links to my portfolio, projects, and career highlights.*
 
-- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/){:target="_blank"}
-  *Links to all Nielsen Repo*
-
-- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
-  *Links to all ECO3 Repo*
+- **NielsenIQ**
+  - [`Enterprise Analytics Journey – NielsenIQ`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/){:target="_blank"}
+    *Master page linking all NielsenIQ repositories.*
+    - [`Reporting & Analytics Foundation`](https://rutang-bhatiya.github.io/1.0-Reporting-Analytics-Foundation-Nielseniq/){:target="_blank"}
+      *SQL-based analytics & Excel RTL templates.*
+    - [`BI Transformation & Data Lake Migration`](https://rutang-bhatiya.github.io/2.0-BI-Transformation-Data-Lake-Migration-NielsenIQ/){:target="_blank"}
+      *Migration of legacy reports to Discover and customer enablement.*
+    - [`Database Architecture & Business Translation`](https://rutang-bhatiya.github.io/3.0-Database-Architecture-Customer-Enablement/){:target="_blank"}
+      *Database modeling, hierarchy management, and business translation.*
+      
+- **ECO3**
+  - [`Enterprise Analytics Journey – ECO3`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
+    *Master page linking all ECO3 repositories.*
+    - [`Legacy Discovery & Reporting Foundation`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
+      *Mapping legacy environment & establishing report ownership.*
+    - [`Operational BI Ownership & Business Analytics]`(https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/)  
+      *Power BI ownership, data trust restoration, stakeholder enablement.*
+    - [`Pricing, Software & Service Analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
+      *Unified Sales Analytics App – Pricing, Software Revenue, Service KPIs.*
+    - [`Data Engineering & BDM 2.0 Future Architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/){:target="_blank"}
+      *Automation, Python transformation, Microsoft Fabric, AI-ready future state.*
