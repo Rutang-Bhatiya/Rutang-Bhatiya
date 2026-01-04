@@ -19,7 +19,7 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
 
 ## Navigation / Links (Placeholders)
 
-- **Overview:** [About Me / Journey Page](#)  
+- **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/)
   *It contain links to My portfolio and all major pages and projects*
 
 - **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/)  
