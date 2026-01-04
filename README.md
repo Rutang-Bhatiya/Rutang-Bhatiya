@@ -13,7 +13,7 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rutang-Bhatiya&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rutang-Bhatiya&icon=0&color=0)](https://visitcount.itsvg.in)
+[AAAA](https://visitcount.itsvg.in/api?id=Rutang-Bhatiya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -22,8 +22,8 @@ I’m a Business Data Analyst with over 5 years of experience in data analytics,
 - **Overview:** [`About Me`](https://rutang-bhatiya.github.io/Rutang-Bhatiya/)
   *It contain links to My portfolio and all major pages and projects*
 
-- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/)  
+- **NielsenIQ:** [`NielsenIQ-Enterprise-Analytics-Journey`](https://rutang-bhatiya.github.io/Enterprise-Analytics-Journey-NielsenIQ/){:target="_blank"}
   *Links to all Nielsen Repo*
 
-- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/)  
+- **ECO3:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
   *Links to all ECO3 Repo*
